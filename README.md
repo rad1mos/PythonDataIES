@@ -17,12 +17,15 @@ The only way to submit your project is through [project submission form](https:/
 -->
 # DataCamp access
 If you have intention to do the course, request [Data Camp access here](https://forms.gle/Wj8kVFNBUfSG9vSK7)
+* check your spam folder for invititation email. There are still people who did not sign up, although invited.
 
 # Communication
 Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!
 
 # FAQ
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
+
+* The course is held **in-person** and there is by default **no online** option.
 
 * **Datacamp** is available to all who are enrolled. If you drop the course, let JS know to vacate the slot.
 
@@ -94,7 +97,6 @@ At least 3 out of 4 assignments submitted on time is required.
 
 ### 28/2 18:20 (HW 2)
 * [Introduction to Python - numpy ](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy)
-* [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 * [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 ### 7/3 18:20 (HW 3)

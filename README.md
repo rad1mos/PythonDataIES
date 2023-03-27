@@ -20,18 +20,17 @@ The only way to submit your project is through [project submission form](https:/
 
 -->
 # Midterm March 2023
-Please read the [preview for midterm](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/tasks/Midterm_tasks-ff1f7bc2_march_2023_v1-preview.pdf). The tasks will appear right here at 18:30 CET.
-* Read the instructions **carefully**
-* Ensure you have your own **github repository** to which you will upload the solution
-* The only official channel to **submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
 
+* **Submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
 * Results will appear within a week in your SIS
 
 
 
 # Communication
-Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!
+Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. 
 <!---
+
+Before you do, read the FAQ below!!
 # FAQ - pre semester
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 
